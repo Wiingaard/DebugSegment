@@ -1073,7 +1073,7 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@react-native-async-storage/async-storage@^1.15.15", "@react-native-async-storage/async-storage@^1.15.17", "@react-native-async-storage/async-storage@^1.17.7":
+"@react-native-async-storage/async-storage@1.17.7", "@react-native-async-storage/async-storage@^1.15.15", "@react-native-async-storage/async-storage@^1.15.17":
   version "1.17.7"
   resolved "https://registry.yarnpkg.com/@react-native-async-storage/async-storage/-/async-storage-1.17.7.tgz#f9213e8cc6202a8c29df5a4da1db588f3b0fa8a9"
   integrity sha512-mDtWhCcpxzrZhA95f6zi0pnBsjBEZW1LKZWfxVXG0UfaWpPxDBCKowNk2xjRTytckZeVhjmPJPtBU+8QNQcR0A==
@@ -1288,15 +1288,15 @@
   resolved "https://registry.yarnpkg.com/@react-native/polyfills/-/polyfills-2.0.0.tgz#4c40b74655c83982c8cf47530ee7dc13d957b6aa"
   integrity sha512-K0aGNn1TjalKj+65D7ycc1//H9roAQ51GJVk5ZJQFb2teECGmzd86bYDC0aYdbRf7gtovescq4Zt6FR0tgXiHQ==
 
-"@segment/analytics-react-native-plugin-amplitude-session@^0.2.1":
+"@segment/analytics-react-native-plugin-amplitude-session@0.2.1":
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/@segment/analytics-react-native-plugin-amplitude-session/-/analytics-react-native-plugin-amplitude-session-0.2.1.tgz#2ad73c7044816a1ef1666765785f7b885701609e"
   integrity sha512-qeFCBlCS6Nt0dmcC2A7RB8tiQiaqcoSBslfPs5WhCopfGHFinSjQPFku79Br5QvgXoLjYx88jc6h8+x3uSbolw==
 
-"@segment/analytics-react-native@^2.2.2":
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/@segment/analytics-react-native/-/analytics-react-native-2.2.2.tgz#2101ca3ecc72224e723ffc4a74d349fb87c0a8a0"
-  integrity sha512-Z7ad7ovATH8c+JQIIEQgbFEbZQaxp/GAw9S2m0pJfXiq24R+HBv3m7QCJ1ivF2ofe1MrU7z851ik2snyOY9Znw==
+"@segment/analytics-react-native@2.3.1":
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/@segment/analytics-react-native/-/analytics-react-native-2.3.1.tgz#f8e1a372d20f1c07b22120da92062a48677b388b"
+  integrity sha512-SxK8oXpv9zgfQR/1b1jYD8ZSv9RtTI56R8w8l1jVaYv3kHpd+ssBxLy88xk46FsxRAm5iQ0UkyKrjF4BUhSLLw==
   dependencies:
     "@react-native-async-storage/async-storage" "^1.15.17"
     "@segment/sovran-react-native" "^0.2.8"
@@ -1304,7 +1304,7 @@
     js-base64 "^3.7.2"
     nanoid "^3.1.25"
 
-"@segment/sovran-react-native@^0.2.8":
+"@segment/sovran-react-native@0.2.8", "@segment/sovran-react-native@^0.2.8":
   version "0.2.8"
   resolved "https://registry.yarnpkg.com/@segment/sovran-react-native/-/sovran-react-native-0.2.8.tgz#76a3c29011f9726a0fa2ac3942fb1d7715816d7e"
   integrity sha512-b3a2vfEj2+jb8w/o+rNrJESWUhHEtrRZgydRNg1PEmMDlLeh42T3mDAap4mtGFICRDHU57w2zPeuw+wfs/sk7g==
